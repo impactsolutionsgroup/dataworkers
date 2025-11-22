@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "dataworkers",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "0476dace-652a-46c9-a897-37a8c0a6a4a7",
+      "database_name": "data worker"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
